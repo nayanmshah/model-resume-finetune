@@ -1,0 +1,5 @@
+{"instruction": "Where did the candidate complete their undergraduate studies?", "context": "David Kim received his Bachelor's degree in Information Systems from the University of Texas.", "response": "University of Texas"}
+{"instruction": "What programming languages does the candidate know?", "context": "Rachel Lee is experienced in Java, Python, and JavaScript, and has built full-stack applications.", "response": "Java, Python, JavaScript"}
+{"instruction": "What management experience does the candidate have?", "context": "James Wong led a team of 10 engineers while working as an Engineering Manager at Meta.", "response": "Led a team of 10 engineers as Engineering Manager at Meta"}
+{"instruction": "What certifications does the candidate have?", "context": "Angela King holds certifications in AWS Solutions Architect and Google Cloud Professional Engineer.", "response": "AWS Solutions Architect, Google Cloud Professional Engineer"}
+{"instruction": "What industries has the candidate worked in?", "context": "Mark Lee has held positions in the healthcare, fintech, and education technology sectors.", "response": "Healthcare, Fintech, Education Technology"}

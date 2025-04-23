@@ -1,0 +1,5 @@
+{"instruction": "What are the candidate's core skills?", "context": "John Doe is proficient in Python, SQL, and cloud platforms like AWS. He also has experience with data pipelines and ETL workflows.", "response": "Python, SQL, AWS, Data Pipelines, ETL"}
+{"instruction": "What is the highest degree obtained by the candidate?", "context": "Jane Smith holds a Master of Science in Computer Science from Stanford University.", "response": "Master of Science in Computer Science"}
+{"instruction": "List previous job titles held by the candidate.", "context": "Michael Johnson worked as a Software Engineer at Google and later as a Senior Developer at Microsoft.", "response": "Software Engineer, Senior Developer"}
+{"instruction": "How many years of experience does the candidate have?", "context": "Emily White has over 7 years of experience in data science, machine learning, and analytics.", "response": "7 years"}
+{"instruction": "What is the candidate's current job title?", "context": "Sarah Brown is currently employed as a Lead Data Scientist at OpenAI.", "response": "Lead Data Scientist"}
