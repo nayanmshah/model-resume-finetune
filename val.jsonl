@@ -3,3 +3,5 @@
 {"instruction": "What management experience does the candidate have?", "context": "James Wong led a team of 10 engineers while working as an Engineering Manager at Meta.", "response": "Led a team of 10 engineers as Engineering Manager at Meta"}
 {"instruction": "What certifications does the candidate have?", "context": "Angela King holds certifications in AWS Solutions Architect and Google Cloud Professional Engineer.", "response": "AWS Solutions Architect, Google Cloud Professional Engineer"}
 {"instruction": "What industries has the candidate worked in?", "context": "Mark Lee has held positions in the healthcare, fintech, and education technology sectors.", "response": "Healthcare, Fintech, Education Technology"}
+{"instruction": "List previous job titles held by the candidate.", "context": "Bryan Kobe worked as a Software Engineer at Google and later as a Senior Developer at Microsoft.", "response": "Software Engineer, Senior Developer"}
+{"instruction": "What is the candidate's current job title?", "context": "Leela Rameshwaram is currently employed as a Lead Data Scientist at OpenAI.", "response": "Lead Data Scientist"}

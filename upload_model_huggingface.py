@@ -5,5 +5,5 @@ model = AutoModelForSeq2SeqLM.from_pretrained("./resume-qa-model")
 tokenizer = AutoTokenizer.from_pretrained("MBZUAI/LaMini-Flan-T5-783M")
 
 # Push to Hugging Face Hub
-model.push_to_hub("nayanmshah/resume-qa-model")
+model.push_to_hub("nayanmshah/resume-qa-model", safe_serialization=False)
 tokenizer.push_to_hub("nayanmshah/resume-qa-model")
